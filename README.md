@@ -11,4 +11,5 @@ To verify the model performance, first download the LPOD_LSTM_models (from githu
 
 # Introduction of source code
 - `configure.yaml`: path environment configuration file
+- `environment.yaml`: python environment
 
