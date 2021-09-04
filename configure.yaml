@@ -1,0 +1,3 @@
+DATA_SET: /your_path_to_data/LPOD_LSTM_data/different_prediction_horizons/dataset_with_LPOD_horizon_1.npz
+MODEL_STRUCTURE: /your_path_to_model/LPOD_LSTM_models/Different_models_different_horizon/LPOD_LSTM_forward1_converge_Lanczos10.json
+MODEL_WEIGHTS: /your_path_to_model/LPOD_LSTM_models/Different_models_different_horizon/LPOD_LSTM_forward1_converge_Lanczos10.h5
