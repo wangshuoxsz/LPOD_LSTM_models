@@ -3,3 +3,8 @@
 ---
 
 ![Alt text](https://github.com/wangshuoxsz/LPOD_LSTM_models/blob/main/Figure/LPOD_LSTM_framework "LPOD_LSTM_Framework")
+
+
+# Introduction of source code
+- `configure.yaml`: path environment configuration file
+
